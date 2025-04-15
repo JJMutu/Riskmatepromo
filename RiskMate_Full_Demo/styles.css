@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+header {
+  background: #000;
+  color: #fff;
+  padding: 40px 20px;
+}
+.logo {
+  width: 80px;
+  margin-bottom: 10px;
+}
+.tagline {
+  font-size: 18px;
+  margin-top: -10px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: gold;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background: darkorange;
+}
+#demoContent {
+  margin: 40px auto;
+  max-width: 500px;
+  text-align: left;
+}
